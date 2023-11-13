@@ -1,7 +1,7 @@
 # Land Registry Contract
 
-Indian land registeration system Proof Of Concept based on Blockchain.
-The Samrt Contract focuses on minimizing disruptions with the current on Indian system and is in line with [Torren's System](https://en.wikipedia.org/wiki/Torrens_title) as the insurance can be guaranteed by court Order.
+Indian land registration system Proof Of Concept based on Blockchain.
+The Smart Contract focuses on minimizing disruptions with the current Indian system and is in line with [Torren's System](https://en.wikipedia.org/wiki/Torrens_title) as the insurance can be guaranteed by court Order.
 
 
 ## Deploying the contract
@@ -9,7 +9,7 @@ The contract can be deployed on an Ethereum chain using various [tools](https://
 
 ## Truffle Quick Run
 The contract can be quickly deployed and tested in a Truffle [development environment](https://trufflesuite.com/docs/truffle/how-to/debug-test/use-truffle-develop-and-the-console/) 
-This requires no need of accounts setup, chain configuration and blockchain client.
+There is no need for accounts setup, chain configuration and blockchain client.
 
 ### Installation
 
